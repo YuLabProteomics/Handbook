@@ -1,21 +1,29 @@
 # Introduction {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+## Core Value
+At the Yu Lab, we embrace the transformative power of interdisciplinary collaboration. Our team comprises individuals with distinct yet complementary expertise, which is essential for driving innovative scientific breakthroughs. We believe that teamwork is not just beneficial but vital for tackling the complex challenges we face in research.
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+Central to our value is the commitment to inclusiveness and diversity. We recognize that a diversity of backgrounds, experiences, and perspectives enhances our collective creativity and problem-solving abilities. To foster an environment where everyone can thrive, it is imperative that we respect and appreciate each other's contributions. By nurturing a culture of collaboration and embracing diverse viewpoints, we strive to empower every team member to share their unique insights. Together, we can approach problems from various angles, leading to innovative solutions and remarkable outcomes.
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+## Lab Architecture
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+The Yu Lab at UMass Chan Medical School is structured to foster a collaborative and productive research environment, comprising a diverse team of professionals including the Principal Investigator (PI), postdoctoral researchers, graduate students, and technicians. Each role plays a vital part in advancing our scientific goals and promoting innovation.
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+__Principal Investigator (PI)__<br>
+The Principal Investigator, Dr. Qing Yu, leads the lab with a vision for research. As the driving force behind the lab's scientific direction, the PI is responsible for overseeing all research projects, securing funding, mentoring team members, and ensuring a productive and inclusive lab culture.
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+__Postdoctoral Researchers__<br>
+Postdoctoral researchers in the Yu Lab bring specialized expertise and contribute significantly to the lab’s research output. They are often responsible for leading specific projects, mentoring graduate students, and developing novel experimental approaches. Their role is crucial in bridging the gap between mentorship and independent research, allowing them to gain valuable experience while advancing the lab's objectives.
+
+__Graduate Students__<br>
+Graduate students form the backbone of the Yu Lab's research efforts, engaging in both independent and collaborative projects. They are immersed in experimental design, data analysis, and the publication process. The lab emphasizes a supportive environment for graduate students, encouraging them to develop their scientific skills and critical thinking while contributing to the collective knowledge of the lab.
+
+__Research Scientists__<br>
+Research scientists play an essential role in the daily operations of the lab, providing vital support for experiments and maintaining laboratory equipment. Their expertise ensures that the lab runs smoothly and that research protocols are followed meticulously. Research scientists often have hands-on experience with various techniques and technologies, enabling them to assist in a range of projects effectively.
+
+## Department and School Resources
+* [Our Amazing BMB Staff](https://www.umassmed.edu/bmb/about/administrative-team/)  
+* [Diversity and Inclusion Office](https://www.umassmed.edu/dio/)  
+* [Office for Postdoctoral Scholars](https://www.umassmed.edu/gsbs/postdocs/)  
+* [IT/Research Computing](https://www.umassmed.edu/it/services/research-technology/)  
+* [Funding Opportunities for Trainees](https://www.umassmed.edu/studentaffairs/studentresources/funding-opportunities/)
