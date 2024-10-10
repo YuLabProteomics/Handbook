@@ -1,15 +1,47 @@
 # Research
 
-## Protocol
-
-
-## Data
-
-
-## Notebook
-
-
 ## Lab Meeting
+We will be holding weekly lab meetings, and all full-time lab members are expected to attend. Part-time members are welcome to join as well. These meetings will serve as a platform for research presentations, where lab members will share updates on their ongoing projects, as well as for journal clubs to discuss recent publications relevant to our work. This is an opportunity to stay aligned as a team, foster collaboration, and gain valuable feedback on research progress. Please come prepared to engage and contribute to the discussions.I’ll come prepared too—with pizza or snacks, depending on the time!
 
+I will send out the lab meeting schedule at the beginning of each semester. If an adjustment is needed to accommodate your schedule (e.g., travel, vacation), I appreciate at least two weeks' notice—unless it’s an emergency. 
 
 ## Individual Meeting
+At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine—we can just say hi or cancel it. Before each meeting, update your meeting agenda in OneNote; this will also be a place where we document next steps. I am also happy to have additional project-focused meetings as needed—just ask or send me a calendar invitation.
+
+## Scheduling
+In general for quick chats feel free to come knock on my door so we can discuss experiments, troubleshooting, ordering, etc. For all **scheduling** of meetings, individual leave, or other events that require advanced notice or planning, please send me a **calendar invite** to make sure that we both know the timing and expectations for these events. This includes for collaboration meetings, time off, general exams, committee meetings, etc.
+
+## Data
+### Scripts and Code
+All scripts and code used for lab projects (including programs, websites, tools, data analysis work) should be deposited or version controlled in lab storage/servers. This includes depositing repositories in the lab GitHub.
+
+### Raw Data
+Raw data will be backed up in at least two places to ensure it can be accessed when needed. This is especially important for published data, as someone may request these files years later. For published data, they should also be uploaded to public repository such as [PRIDE](https://www.ebi.ac.uk/pride/) and [MassIVE](https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp). Unpublished data should be similarly managed to ensure that we do not need to revisit the same basic work again. If you are unsure or where to store your data contact Qing!
+
+## Lab Storage
+Data can be stored in the following places:  
+
+* **Lab server**
+  + *Store*: Raw data, search results, basic analysis.
+* **Lab GitHub**
+  * *Store*: All code/scripts.
+* **OneDrive**
+  * *Store*: Raw data, data analysis, programs, general utilities, presentations, lab meeting information, protocols, collaboration data.
+* **DropBox/Google Drive** 
+  * *Store*: Personal project information, presentations, figures, pre-print manuscripts, proofs, collaboration data.
+
+## Reproducible Research
+I expect that all of our research will be, at minimum, reproducible (when possible, we will also test for replicability). Conducting reproducible requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research: **1)** extensive note-taking (i.e., as much as you can manage) and **2)** programming workflows with version control.
+
+Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind must use some form of version control. I strongly recommend git in combination with GitHub, unless you have a pre-existing workflow.
+
+## Notebook
+It is critical to maintain a good lab notebook, both for your own research and for cases where others need to reproduce your experiments. You are welcome to use any type of notebook (e.g., physical, electronic). In addition, I will create a shared notebook on OneNote for each of you. I expect you to update key experiments/results there so I can stay up to date on your progress.
+
+For those who are interested in electronic notebook, [LabArchives](https://www.umassmed.edu/it/services/research-technology/basic-science/labarchives/) is free—hopefully eternally—to UMass Chan researchers.
+
+## Authorship
+Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, graduate students and postdocs will be a first author on publications on which they are the primary lead, and I will be a last/corresponding author.
+
+## Old projects
+For projects that required significant lab resources (e.g., hundreds of animal/clinical samples): Project "ownership" expires 1 year after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time, while still giving publication priority to the original primary lead.

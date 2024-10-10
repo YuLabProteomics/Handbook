@@ -33,3 +33,17 @@ individual-meeting
 instrumentation
 mass-spectrometer
 hplc
+general-lab-policy
+pi-availability
+presentations
+lab-travel
+funding
+authorship
+scripts-and-code
+raw-data
+lab-storage
+scheduling
+old-projects
+scientific-integrity
+reproducible-research
+deadlines
