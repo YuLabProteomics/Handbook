@@ -47,3 +47,5 @@ old-projects
 scientific-integrity
 reproducible-research
 deadlines
+join-the-lab
+training-you-can-expect

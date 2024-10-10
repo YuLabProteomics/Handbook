@@ -1,11 +1,11 @@
-# Joining the Lab 
+# Join the Lab 
 
 ## Code of Conduct
 The Yu Lab is committed to fostering an inclusive, respectful, and professional environment where all members can thrive. Every individual in the lab is expected to treat others with kindness and respect, regardless of their role, background, or identity. Collaboration and open communication are central to our work, and all members are encouraged to share ideas and respectfully challenge one another in the pursuit of scientific excellence.We have a zero-tolerance policy for discrimination, microaggression, or any behavior that undermines the lab’s inclusiveness. 
 
 We uphold the highest standards of integrity in research. All lab members are expected to conduct experiments responsibly, report data honestly, and adhere to ethical guidelines. Data fabrication or manipulation will not be tolerated, as maintaining transparency and accuracy in research is critical to scientific progress.
 
-## Training You Can Expect to Receive
+## Training You Can Expect
 
 ### Chemical Biology
 
