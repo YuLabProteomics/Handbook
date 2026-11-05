@@ -44,6 +44,7 @@ https://www.youtube.com/channel/UC0v4sjdXLMa-OWR7IYeoFoA
 * [Full-Featured, Real-Time Database Searching Platform Enables Fast and Accurate Multiplexed Quantitative Proteomics, *Journal of Proteome Research*, 2020](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00860)
 * [Sample multiplexing for targeted pathway proteomics in aging mice, *Proceedings of the National Academy of Sciences of the United States of America*, 2020](https://www.pnas.org/doi/abs/10.1073/pnas.1919410117?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [Sample multiplexing-based targeted pathway proteomics with real-time analytics reveals the impact of genetic variation on protein expression, *Nature Communications*, 2023](https://www.nature.com/articles/s41467-023-36269-7)
+* [Next-generation multiplexed targeted proteomics quantifies post-translational modifications in disease and compound-protein interactions with high throughput, *Nature Communications*, 2026](https://www.nature.com/articles/s41467-026-76929-y)
 
 ### Data Processing
 * [Comet: an open-source MS/MS sequence database search tool, *Proteomics*, 2013](https://pubmed.ncbi.nlm.nih.gov/23148064/)
@@ -61,3 +62,4 @@ https://www.youtube.com/channel/UC0v4sjdXLMa-OWR7IYeoFoA
 * [Creative approaches using proximity labeling to gain new biological insights, *Trends in Biochemical Sciences*, 2024](https://pubmed.ncbi.nlm.nih.gov/38160064/)
 * [Proximity Dependent Biotinylation: Key Enzymes and Adaptation to Proteomics Approaches, *Molecular Cellular Proteomics*, 2020](https://pubmed.ncbi.nlm.nih.gov/32127388/) 
 * [Spatially resolved proteomic mapping in living cells with the engineered peroxidase APEX2, *Nature Protocol*, 2016](https://pubmed.ncbi.nlm.nih.gov/26866790/)
+* [Multiscale photocatalytic proximity labeling reveals cell surface neighbors on and between cells, *Science*, 2024](https://pubmed.ncbi.nlm.nih.gov/39024454/)

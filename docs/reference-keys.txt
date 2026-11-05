@@ -49,3 +49,4 @@ reproducible-research
 deadlines
 join-the-lab
 training-you-can-expect
+use-of-ai
